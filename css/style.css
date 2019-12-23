@@ -35,8 +35,8 @@
 /* Imported styles */
 @import url('https://fonts.googleapis.com/css?family=Fira+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
 @import url('https://fonts.googleapis.com/css?family=Poppins:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900');
-
-
+@import url(https://fonts.googleapis.com/earlyaccess/cwtexyen.css);
+@import url(https://fonts.googleapis.com/earlyaccess/notosanstc.css);
 
 @import url(imp.css);
 @import url(bootstrap.css);
@@ -85,7 +85,7 @@
 html,
 body { height: 100% }
 body {
-    font-family: 'Fira Sans', sans-serif;
+    font-family: 'cwTeXYen', sans-serif;
     font-size: 16px;
     color: #848484;
     line-height: 26px;
@@ -101,7 +101,7 @@ button {
     padding: 0;
 }
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Noto Sans TC', sans-serif;
     font-weight: 500;
     margin: 0;
 }
@@ -165,7 +165,7 @@ li {
     display: inline-block;
     padding: 17px 30px 18px;
     text-transform: capitalize;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Noto Sans TC', sans-serif;
     transition: all 500ms ease;
     line-height: 15px;
     position: relative;
@@ -182,7 +182,7 @@ li {
     display: inline-block;
     padding: 17px 30px 18px;
     text-transform: capitalize;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Noto Sans TC', sans-serif;
     transition: all 500ms ease;
     line-height: 15px;
     position: relative;
@@ -512,7 +512,7 @@ select:focus {
     padding: 14px 0;
     transition: all 500ms ease 0s;
     width: 55px;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Noto Sans TC', sans-serif;
     border-radius: 0px;
 }
 .post-pagination li.active a, 
@@ -810,7 +810,7 @@ select:focus {
     opacity: 1;
     padding: 43px 0px;
     transition: all 300ms ease;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Noto Sans TC', sans-serif;
 }
 .main-menu .navigation > li:hover > a, 
 .main-menu .navigation > li.current > a {
@@ -1067,7 +1067,7 @@ select:focus {
 	font-size: 76px;
 	color: #222222;
 	line-height: 1.2em;
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Noto Sans TC', sans-serif;
     margin: 0 0 12px;
 }
 .rev_slider_wrapper .slide-content .text{
@@ -1076,7 +1076,7 @@ select:focus {
 	font-weight: 400;
 	color: #3740b0;
 	line-height: 1.6em;
-    font-family: 'Fira Sans', sans-serif;
+    font-family: 'cwTeXYen', sans-serif;
 }
 .rev_slider_wrapper .slide-content .btns-box{
     margin-top: 31px;
@@ -1435,7 +1435,7 @@ select:focus {
     font-size: 15px;
     font-weight: 600;
     text-transform: capitalize;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Noto Sans TC', sans-serif;
     transition: all 500ms ease;
 }
 .single-service-item .text-holder a.readmore:hover{
@@ -1509,7 +1509,7 @@ select:focus {
     font-size: 15px;
     font-weight: 600;
     text-transform: capitalize;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Noto Sans TC', sans-serif;
 }
 .working-area .text-holder .text a i{
     display: inline-block;
@@ -1877,7 +1877,7 @@ select:focus {
     font-size: 14px;
     font-weight: 500;
     text-transform: uppercase;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Noto Sans TC', sans-serif;
 }
 .single-blog-post .text-holder .top .meta-box .meta-info {
     overflow: hidden;
@@ -1900,7 +1900,7 @@ select:focus {
     color: #848484;
     font-size: 16px;
     font-weight: 400;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Noto Sans TC', sans-serif;
     transition: all 500ms ease;
     line-height: 16px;    
 }
@@ -1917,7 +1917,7 @@ select:focus {
     line-height: 26px;
     margin: 0 0 13px;
     transition: all 500ms ease 0s;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Noto Sans TC', sans-serif;
 }
 .single-blog-post .text-holder .blog-title:hover{
     color: #3740b0;
@@ -1937,7 +1937,7 @@ select:focus {
     font-size: 16px;
     font-weight: 500;
     text-transform: capitalize;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Noto Sans TC', sans-serif;
     transition: all 500ms ease;
 }
 .single-blog-post .text-holder .readmore a:hover{
@@ -2160,7 +2160,7 @@ select:focus {
     color: #222222;
     font-size: 44px;
     font-weight: 700;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Noto Sans TC', sans-serif;
 }
 .single-fact-counter .icon-box{
     position: absolute;
@@ -2179,7 +2179,7 @@ select:focus {
     line-height: 18px;
     font-weight: 400;
     text-transform: capitalize;
-    font-family: 'Fira Sans', sans-serif;
+    font-family: 'cwTeXYen', sans-serif;
     margin: 15px 0;
 }
 
@@ -2415,7 +2415,7 @@ select:focus {
     font-size: 16px;
     line-height: 26px;
     font-weight: 500;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Noto Sans TC', sans-serif;
     transition: all 500ms ease;
     position: relative;
     top: -5px;
@@ -2433,7 +2433,7 @@ select:focus {
     font-size: 16px;
     font-weight: 400;
     line-height: 16px;
-    font-family: 'Fira Sans', sans-serif;
+    font-family: 'cwTeXYen', sans-serif;
 }
 
 
@@ -2488,7 +2488,7 @@ select:focus {
     font-size: 16px;
     font-weight: 500;
     margin: 0;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Noto Sans TC', sans-serif;
     line-height: 26px;
 }
 .footer-bottom-area .footer-bottom .copyright-text p a {
@@ -2514,7 +2514,7 @@ select:focus {
     font-size: 16px;
     font-weight: 500;
     transition: all 500ms ease; 
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Noto Sans TC', sans-serif;
 }
 .footer-bottom-area .footer-bottom .footer-menu ul li a:hover{
     color: #3740b0; 
@@ -2568,7 +2568,7 @@ select:focus {
     line-height: 20px;
     font-size: 16px;
     font-weight: 500;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Noto Sans TC', sans-serif;
 }
 .breadcrumb-bottom ul li:last-child{
     margin-right: 0;
@@ -2576,7 +2576,7 @@ select:focus {
 .breadcrumb-bottom ul li a{
     color: #f7f7f7;
     text-transform: capitalize;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Noto Sans TC', sans-serif;
     transition: all 500ms ease;
 }
 .breadcrumb-bottom ul li.active{
@@ -3222,7 +3222,7 @@ select:focus {
     font-weight: 500;
     text-transform: capitalize;
     transition: all 500ms ease;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Noto Sans TC', sans-serif;
     position: relative;
     display: block;
     cursor: pointer;
@@ -3304,7 +3304,7 @@ select:focus {
     font-weight: 500;
     padding: 14px 25px 12px;
     width: 100%;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Noto Sans TC', sans-serif;
     position: relative;
     z-index: 1;
     transition: all 500ms ease;
@@ -3377,7 +3377,7 @@ select:focus {
     color: #848484;
     font-size: 16px;
     font-weight: 400;
-    font-family: 'Fira Sans', sans-serif;
+    font-family: 'cwTeXYen', sans-serif;
 }
 .left-sidebar .single-sidebar .service-brochures .brochures-dwn-link li a:hover .title-holder h5{
     color: #fff;    
@@ -3429,7 +3429,7 @@ select:focus {
     color: #222222;
     font-size: 16px;
     font-weight: 500;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Noto Sans TC', sans-serif;
 }
 
 
@@ -3498,7 +3498,7 @@ select:focus {
     font-weight: 500;
     text-transform: capitalize;
     transition: all 500ms ease 0s;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Noto Sans TC', sans-serif;
 }
 
 .project-filter li span:before {
@@ -3630,10 +3630,10 @@ select:focus {
     color: #3740b0;
     font-size: 16px;
     font-weight: 500;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Noto Sans TC', sans-serif;
 }
 .project-single-area .project-info ul li span{
-    font-family: 'Fira Sans', sans-serif;
+    font-family: 'cwTeXYen', sans-serif;
     padding-left: 20px; 
     color: #848484;
     font-weight: 400;
@@ -3738,7 +3738,7 @@ select:focus {
     font-size: 16px;
     font-weight: 400;
     margin: 0;
-    font-family: 'Fira Sans', sans-serif;
+    font-family: 'cwTeXYen', sans-serif;
 }
 
 .project-single-area .project-result {
@@ -3806,7 +3806,7 @@ select:focus {
     font-weight: 400;
     text-transform: capitalize;
     background: #f6f6f6;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Noto Sans TC', sans-serif;
     transition: all 500ms ease;
 }
 .faq-content-area .tab-menu li.active a, 
@@ -4296,7 +4296,7 @@ select:focus {
     transition: all 500ms ease;
     font-weight: 400;
     font-size: 15px;
-    font-family: 'Fira Sans', sans-serif;
+    font-family: 'cwTeXYen', sans-serif;
 }
 .single-sidebar .popular-post li .title-holder .post-date i {
     font-size: 13px;
@@ -4466,7 +4466,7 @@ select:focus {
     color: #3740b0;
     font-size: 15px;
     font-weight: 400;
-    font-family: 'Fira Sans', sans-serif;
+    font-family: 'cwTeXYen', sans-serif;
     margin: 0;
 }
 .blog-single-area .bottom-content-box {}
@@ -4494,7 +4494,7 @@ select:focus {
     font-size: 16px;
     font-weight: 500;
     text-transform: capitalize;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Noto Sans TC', sans-serif;
 }
 .blog-single-area .social-share-box{
     overflow: hidden;
@@ -4507,7 +4507,7 @@ select:focus {
     color: #222222;
     font-size: 16px;
     font-weight: 500;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Noto Sans TC', sans-serif;
 }
 .blog-single-area .social-share-box i {
     display: inline-block;
@@ -4596,7 +4596,7 @@ select:focus {
     color: #1c1c1c;
     font-size: 16px;
     font-weight: 500;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Noto Sans TC', sans-serif;
 }
 .blog-single-area .comment-box .single-comment-box .text-holder .top .review-box {
     position: relative;
@@ -4764,7 +4764,7 @@ select:focus {
 .contact-page-author-info ul li .text-holder p span {
     color: #fff;
     font-weight: 500;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Noto Sans TC', sans-serif;
 }
 .contact-page-author-info .social-icon {
     overflow: hidden;
@@ -4953,7 +4953,7 @@ select:focus {
     margin-left: -60px;
     margin-bottom: 0px;
     background-color: #b2c9ff;
-    font-family: 'Fira Sans', sans-serif;
+    font-family: 'cwTeXYen', sans-serif;
     transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
     -webkit-transition: all 0.3s ease;
@@ -5015,7 +5015,7 @@ select:focus {
     color: #3740b0;
     font-size: 16px;
     font-weight: 400;
-    font-family: 'Fira Sans', sans-serif;
+    font-family: 'cwTeXYen', sans-serif;
 }
 .single-product-item .title-holder .top .right {}
 .single-product-item .title-holder .top .right ul {
@@ -5173,7 +5173,7 @@ select:focus {
     font-size: 16px;
     font-weight: 400;
     text-transform: capitalize; 
-    font-family: 'Fira Sans', sans-serif;
+    font-family: 'cwTeXYen', sans-serif;
 }
 .sidebar-wrapper .single-sidebar .latest-product li .title-holder .review-box {}
 .sidebar-wrapper .single-sidebar .latest-product li .title-holder .review-box li {
@@ -5255,7 +5255,7 @@ select:focus {
     color: #3740b0;
     font-size: 24px;
     font-weight: 400;
-    font-family: 'Fira Sans', sans-serif;
+    font-family: 'cwTeXYen', sans-serif;
 }
 .single-shop-content .content-box .text {
     overflow: hidden;
@@ -5399,7 +5399,7 @@ select:focus {
     text-transform: capitalize;
     background: #f7f7f7;
     transition: all 500ms ease;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Noto Sans TC', sans-serif;
 }
 .product-tab-box .tab-menu li.active a, 
 .product-tab-box .tab-menu li:hover a{
@@ -5492,7 +5492,7 @@ select:focus {
     font-size: 16px;
     font-weight: 400;
     margin: 0 0 10px;
-    font-family: 'Fira Sans', sans-serif;
+    font-family: 'cwTeXYen', sans-serif;
     text-transform: none;
 }
 .product-tab-box .tab-content .review-form .add-rating-box ul li {
@@ -5521,7 +5521,7 @@ select:focus {
     font-size: 16px;
     font-weight: 400;
     margin: 0 0 3px;
-    font-family: 'Fira Sans', sans-serif;
+    font-family: 'cwTeXYen', sans-serif;
 }
 .product-tab-box .tab-content .review-form form input[type="text"], 
 .product-tab-box .tab-content .review-form form input[type="email"], 
@@ -5596,7 +5596,7 @@ select:focus {
 .cart-area .cart-table .cart-header {
     background: #f7f7f7;
     color: #222222;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 16px;
     font-weight: 400;
     position: relative;
@@ -5623,7 +5623,7 @@ select:focus {
 .cart-area .cart-table tbody tr td {}
 .cart-area .cart-table tbody tr td {
     color: #222222;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 16px;
     font-weight: 400;
     line-height: 24px;
@@ -5720,7 +5720,7 @@ select:focus {
     line-height: 20px;
     padding-left: 50px;
     position: relative;
-    font-family: 'Fira Sans', sans-serif;
+    font-family: 'cwTeXYen', sans-serif;
 }
 .cart-area .cart-table tbody .available-info .icon {
     background: #3740b0 none repeat scroll 0 0;
@@ -5740,20 +5740,20 @@ select:focus {
     color: #848484;
     font-size: 18px;
     font-weight: 400;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Noto Sans TC', sans-serif;
 }
 .cart-area .cart-table tbody tr .sub-total {
     color: #3740b0;
     font-weight: 400;
     font-size: 18px;
-    font-family: 'Fira Sans', sans-serif;
+    font-family: 'cwTeXYen', sans-serif;
 }
 .cart-area .cart-table tbody tr td .remove{ }
 .cart-area .cart-table tbody tr td .remove .checkbox label {
     color: #848484;
     font-size: 16px;
     font-weight: 400;
-    font-family: 'Fira Sans', sans-serif;
+    font-family: 'cwTeXYen', sans-serif;
 }
 .cart-area .cart-table tbody tr td .remove .checkbox label input[type="checkbox"] {
     display: inline-block;
@@ -5989,7 +5989,7 @@ select:focus {
     font-weight: 400;
     margin: -3px 0 3px;
     text-transform: capitalize;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Noto Sans TC', sans-serif;
 }
 .checkout-area .form form .field-input input[type="text"] {
     border: 1px solid #ececec;
@@ -6072,7 +6072,7 @@ select:focus {
     text-transform: capitalize;
     width: 100%;
     font-weight: 400;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Noto Sans TC', sans-serif;
 }
 .checkout-area .table .cart-table thead tr th {
     font-weight: 500;
@@ -6199,7 +6199,7 @@ select:focus {
     padding: 10px 18px;
     position: relative;
     width: 50%;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Noto Sans TC', sans-serif;
 }
 .cart-total-table li span.col {
     color: #848484;
@@ -6211,7 +6211,7 @@ select:focus {
     padding: 10px 18px;
     position: relative;
     width: 50%;
-    font-family: 'Fira Sans', sans-serif;
+    font-family: 'cwTeXYen', sans-serif;
 }
 .cart-total-table li span.col b {
     color: #3740b0;
@@ -6247,7 +6247,7 @@ select:focus {
     font-size: 16px;
     padding-left: 10px;
     font-weight: 400;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Noto Sans TC', sans-serif;
 }
 .cart-total .payment-options .option-block .checkbox label span b {
     color: #3740b0;
@@ -6393,7 +6393,7 @@ select:focus {
     float: left;
     font-size: 14px;
     margin: 28px 0 0 -50px;
-    font-family: 'Fira Sans', sans-serif;
+    font-family: 'cwTeXYen', sans-serif;
 }
 .login-register-area .form .input-field input[type="text"]:focus{
     border: 2px solid #3740b0;    
